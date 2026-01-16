@@ -116,10 +116,10 @@ aws ec2 delete-security-group --group-name test-secure
 ## GRC Application
 
 This tool supports:
-- **CIS AWS Benchmark** — 5.2, 5.3 (No unrestricted SSH/RDP access)
-- **SOC 2** — CC6.6 (Boundary Protection)
-- **NIST 800-53** — SC-7 (Boundary Protection)
-- **PCI DSS** — 1.2.1 (Restrict inbound/outbound traffic)
+- **CIS AWS Benchmark** - 5.2, 5.3 (No unrestricted SSH/RDP access)
+- **SOC 2** - CC6.6 (Boundary Protection)
+- **NIST 800-53** - SC-7 (Boundary Protection)
+- **PCI DSS** - 1.2.1 (Restrict inbound/outbound traffic)
 
 ## Future Enhancements
 
